@@ -1,0 +1,7 @@
+{
+	"common_dir" : "C:/intelFPGA_lite/UART_Full_Duplex/",
+	"acds_version" : "Version 24.1std.0",
+	"platform" : "windows",
+	"os" : "Windows 10",
+	"qpf" : "UART_Full_Duplex.qpf"
+}
